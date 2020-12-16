@@ -39,3 +39,4 @@ Become a Senior React Developer! Build a massive E-commerce app with Redux, Hook
 37. React Events
 38. Filtering State
 39. Optional: filter(), includes()
+40. Search Box Component
