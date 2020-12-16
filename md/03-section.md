@@ -33,3 +33,9 @@ Become a Senior React Developer! Build a massive E-commerce app with Redux, Hook
 31. Card List Component
 32. Quick note on quotes for string interpolation
 33. Card Component
+34. React Events
+35. State vs Props
+36. SearchField State
+37. React Events
+38. Filtering State
+39. Optional: filter(), includes()
