@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { CardList } from './components/card-list/card-list.compoment';
+import CardList from './components/card-list/card-list.compoment';
 import './App.css';
 
 class App extends Component {
@@ -20,9 +20,10 @@ class App extends Component {
   }
 
   render() {
+    const { monsters } = this.state;
     return (
       <div className="App">
-        <CardList monsters={this.state.monsters}></CardList>
+        <CardList monsters={monsters} />
       </div>
     );
   }

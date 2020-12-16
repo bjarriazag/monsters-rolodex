@@ -1,5 +1,5 @@
 {
-  "**/*.+(js|md|ts|css|sass|less|graphql|yml|yaml|scss|json|vue)": [
+  "**/*.+(js|jsx|md|ts|css|sass|less|graphql|yml|yaml|scss|json|vue)": [
     "prettier --write",
     "eslint --fix",
     "git add"
