@@ -32,3 +32,4 @@ Become a Senior React Developer! Build a massive E-commerce app with Redux, Hook
 30. Architecting Our App
 31. Card List Component
 32. Quick note on quotes for string interpolation
+33. Card Component
