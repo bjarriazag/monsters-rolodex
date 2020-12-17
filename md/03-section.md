@@ -46,3 +46,4 @@ Become a Senior React Developer! Build a massive E-commerce app with Redux, Hook
 44. Quick Note: Binding in React
 45. Optional: Git + Github
 46. Optional: Connecting With SSH To Github
+47. Deploying Our App
