@@ -40,3 +40,9 @@ Become a Senior React Developer! Build a massive E-commerce app with Redux, Hook
 38. Filtering State
 39. Optional: filter(), includes()
 40. Search Box Component
+41. Exercise: Where To Put State?
+42. Class Methods and Arrow Functions
+43. Exercise: Event Binding
+44. Quick Note: Binding in React
+45. Optional: Git + Github
+46. Optional: Connecting With SSH To Github
